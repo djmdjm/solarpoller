@@ -68,7 +68,7 @@ var readVars = []ReadVar{
 	ReadVar{"power_ess", 247, 30037, S32, Float, 0.001, "kW"},
 	ReadVar{"energy_ess_capacity_charge", 247, 30064, U32, Float, 0.01, "kWh"},
 	ReadVar{"energy_ess_capacity_discharge", 247, 30066, U32, Float, 0.01, "kWh"},
-	ReadVar{"capacity_ess_health", 247, 30083, U32, Float, 0.01, "kWh"},
+	ReadVar{"capacity_ess_rated", 247, 30083, U32, Float, 0.01, "kWh"},
 	ReadVar{"ess_battery_health_percent", 247, 30087, U16, Float, 0.1, "%"},
 	ReadVar{"temperature_ess_cell_avg", 1, 30603, S16, Float, 0.1, "C"},
 	ReadVar{"energy_daily_ess_charge", 1, 30566, U32, Float, 0.01, "kWh"},
