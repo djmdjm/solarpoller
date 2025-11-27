@@ -1,0 +1,6 @@
+github.com/djmdjm/modbus v0.0.0-20251126105348-7107ddcf7fa4 h1:XczxF7O/vkHY2tQwGoIOeaSYJFqs4azc5D9HJOUTI+Y=
+github.com/djmdjm/modbus v0.0.0-20251126105348-7107ddcf7fa4/go.mod h1:WNa6D0PE5C0lXDctSPL7CFOZZ1cYr67QU9BkfNpgG4E=
+github.com/goburrow/serial v0.1.1-0.20211022031912-bfb69110f8dd h1:qJthTC7IG7e/QYR4i2QHxcDmDdB72FXsaGo4CUQvsPo=
+github.com/goburrow/serial v0.1.1-0.20211022031912-bfb69110f8dd/go.mod h1:sAiqG0nRVswsm1C97xsttiYCzSLBmUZ/VSlVLZJ8haA=
+github.com/mattn/go-sqlite3 v1.14.32 h1:JD12Ag3oLy1zQA+BNn74xRgaBbdhbNIDYvQUEuuErjs=
+github.com/mattn/go-sqlite3 v1.14.32/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
